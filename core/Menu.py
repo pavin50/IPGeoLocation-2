@@ -29,6 +29,8 @@ __author__   = 'maldevel'
 __twitter__  = '@maldevel'
 __version__  = '2.0.4'
 __year__     = '2015-2016'
+__version__ = '2.0.3'
+__year__    = '2015-2016'
 
 
 from argparse import RawTextHelpFormatter
